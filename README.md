@@ -1,11 +1,6 @@
 # Transformers in Deep Learning Course
 
-This repo supplements Deep Learning course taught @fall'23.
-
 Lecture and practice materials for each week are in ./week* folders. You can complete all asignments locally or in google colab (see readme files in week*)
-
-# General info
-* TBA
 
 
 # Syllabus
