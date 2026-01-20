@@ -1,6 +1,6 @@
 
 ## Materials
-* Lecture slides
+* [Lecture slides](week_01_attention/lecture_01.pdf)
 * Seminar slides
 
 
