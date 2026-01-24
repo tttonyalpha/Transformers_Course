@@ -1,7 +1,7 @@
 
 ## Materials
 * [Lecture slides](lecture_01.pdf)
-* Seminar slides
+* [Seminar](https://colab.research.google.com/drive/1cNxahpbrcqOTjYe150msk2niuu8MpA_y?usp=sharing)
 
 
 ## More materials
