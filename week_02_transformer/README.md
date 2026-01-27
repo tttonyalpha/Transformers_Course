@@ -13,7 +13,6 @@
 
 ## Practice
 
-Seminar: TBA
 Homework: TBA 
 
 
