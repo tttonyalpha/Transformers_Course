@@ -11,7 +11,7 @@ Lecture and practice materials for each week are in ./week* folders. You can com
 - __week02__ Transformers basics
   - [x] Lecture: QKW attention, FFN, residual connection, layer norm, positional encoding, dropout, tokenization, sampling.
   - [x] Seminar: Transformer implementation from scratch
-  - [ ] Homework 1 is out!
+  - [x] Homework 1 is out!
 
 - __week03__ Transformers in NLP
   - [ ] Lecture: Transfer learning, BERT (BART, RoBerta and etc.), GPT, T5.
