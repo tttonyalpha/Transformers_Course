@@ -2,6 +2,7 @@
 ## Materials
 * [Lecture slides](lecture_02.pdf)
 * [Seminar](https://colab.research.google.com/drive/14gvqyCgls1_vM9R4hvBZXD9g4rVTSB-n?usp=sharing)
+* [Homeworkd](https://colab.research.google.com/drive/1LU5rrn7U_1KwFuyx-hI5cMcQObjCURKF?usp=sharing)
 
 
 ## More materials
