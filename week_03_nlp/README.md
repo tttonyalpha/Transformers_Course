@@ -1,6 +1,6 @@
 
 ## Materials
-* Lecture slides
+* [Lecture slides](lecture_03.pdf)
 * Seminar slides
 
 
