@@ -14,12 +14,12 @@ Lecture and practice materials for each week are in ./week* folders. You can com
   - [x] Homework 1 is out!
 
 - __week03__ Transformers in NLP
-  - [ ] Lecture: Transfer learning, BERT (BART, RoBerta and etc.), GPT, T5.
-  - [ ] Seminar: HF Transformers
+  - [x] Lecture: Transfer learning, BERT (BART, RoBerta and etc.), GPT, T5.
+  - [x] Seminar: HF Transformers
 
 - __week04__ Transformers in CV
-  - [ ] Lecture: DETR, ViT, Swin.
-  - [ ] Seminar: ViT deep dive
+  - [x] Lecture: DETR, ViT, Swin.
+  - [x] Seminar: ViT deep dive
 
 - __week05__ Transformers Training
   - [ ] Lecture: Pretraining objectives, prefix tuning, PEFT, LoRA, DPO
@@ -27,8 +27,8 @@ Lecture and practice materials for each week are in ./week* folders. You can com
   - [ ] Homework 2 is out!
 
 - __week06__ Multimodal Transformers
-  - [ ] Lecture: MLLM, image and text fusion, VLM
-  - [ ] Seminar: vllm intro
+  - [x] Lecture: MLLM, image and text fusion, VLM
+  - [x] Seminar: vllm intro
 
 - __week07__ Efficient Transformers
   - [ ] Lecture: KV cache, Prunning, Quantization, Distillation, GPU parallelism.
