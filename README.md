@@ -31,8 +31,8 @@ Lecture and practice materials for each week are in ./week* folders. You can com
   - [x] Seminar: vllm intro
 
 - __week07__ Efficient Transformers
-  - [ ] Lecture: KV cache, Prunning, Quantization, Distillation, GPU parallelism.
-  - [ ] Seminar: 
+  - [x] Lecture: KV cache, Prunning, Quantization, Distillation, GPU parallelism.
+  - [x] Seminar: 
 
 - __week08__ Memory in Transformers
   - [ ] Lecture: Memory classification, TransformerXL, RMT, MemoryTransformer, RAG, Titans
