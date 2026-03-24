@@ -3,6 +3,9 @@
 Lecture and practice materials for each week are in ./week* folders. You can complete all asignments locally or in google colab (see readme files in week*)
 
 
+<img width="1536" height="1024" alt="example 10" src="https://github.com/user-attachments/assets/154892d7-eaaa-4838-8a21-b94e8d73198b" />
+
+
 # Syllabus
 - __week01__ Attention Intro
   - [x] Lecture: Deep learning recap, embeddings, rnn bottelneck, from reccurence to attention 
