@@ -1,55 +1,87 @@
 # Transformers in Deep Learning Course
 
-Lecture and practice materials for each week are in ./week* folders. You can complete all asignments locally or in google colab (see readme files in week*)
-
+Lecture and hands-on materials for each week are organized in the `./week*` folders.  
+All assignments can be completed either locally or in **Google Colab** — see the corresponding README files inside each weekly folder for setup and instructions.
 
 <img width="1536" height="1024" alt="example 10" src="https://github.com/user-attachments/assets/154892d7-eaaa-4838-8a21-b94e8d73198b" />
 
+This course provides a practical introduction to **transformer architectures** and their applications across natural language processing, computer vision, multimodal learning, efficient inference, and embodied AI.  
+We start from the motivation behind attention, build transformer models from scratch, and gradually move toward modern training techniques, memory mechanisms, and domain-specific applications.
 
-# Syllabus
-- __week01__ Attention Intro
-  - [x] Lecture: Deep learning recap, embeddings, rnn bottelneck, from reccurence to attention 
-  - [x] Seminar: Torch basics recap, Implementing Bahdanau attention
+<div align="center">
 
-- __week02__ Transformers basics
-  - [x] Lecture: QKW attention, FFN, residual connection, layer norm, positional encoding, dropout, tokenization, sampling.
-  - [x] Seminar: Transformer implementation from scratch
-  - [x] Homework 1 is out!
+[![Course](https://img.shields.io/badge/course-transformers%20in%20deep%20learning-6C63FF?style=for-the-badge)](#syllabus)
+[![Materials](https://img.shields.io/badge/materials-weekly%20lectures%20%26%20seminars-111111?style=for-the-badge)](#syllabus)
+[![Additional%20Resources](https://img.shields.io/badge/resources-extra%20reading-0EA5E9?style=for-the-badge)](#additional-materials)
 
-- __week03__ Transformers in NLP
-  - [x] Lecture: Transfer learning, BERT (BART, RoBerta and etc.), GPT, T5.
-  - [x] Seminar: HF Transformers
+</div>
 
-- __week04__ Transformers in CV
-  - [x] Lecture: DETR, ViT, Swin.
-  - [x] Seminar: ViT deep dive
+<br/>
 
-- __week05__ Transformers Training
-  - [ ] Lecture: Pretraining objectives, prefix tuning, PEFT, LoRA, DPO
-  - [ ] Seminar: HF TRL
-  - [ ] Homework 2 is out!
+## Contents
+* [**📚 Syllabus**](#syllabus)
+* [**🗂 Repository Structure**](#repository-structure)
+* [**📖 Additional Materials**](#additional-materials)
+* [**👩‍🏫 Course Staff**](#course-staff)
 
-- __week06__ Multimodal Transformers
-  - [x] Lecture: MLLM, image and text fusion, VLM
-  - [x] Seminar: vllm intro
+---
 
-- __week07__ Efficient Transformers
-  - [x] Lecture: KV cache, Prunning, Quantization, Distillation, GPU parallelism.
-  - [x] Seminar: 
+<h2 id="syllabus">📚 Syllabus</h2>
 
-- __week08__ Memory in Transformers
-  - [ ] Lecture: Memory classification, TransformerXL, RMT, MemoryTransformer, RAG, Titans
-  - [ ] Seminar: TransformerXL implementation
-  - [ ] Homework 3 is out!
+### Week 01 — Attention Introduction
+- [x] **Lecture:** Deep learning recap, embeddings, RNN bottleneck, from recurrence to attention
+- [x] **Seminar:** Torch basics recap, implementing Bahdanau attention
 
-- __week09__ Transformers in other domains
-  - [ ] Lecture: Audio, Robotics, Table ML, Bioligy
-  - [ ] Seminar: SmolVLA overview
+### Week 02 — Transformer Basics
+- [x] **Lecture:** QKV attention, feed-forward networks, residual connections, layer normalization, positional encoding, dropout, tokenization, sampling
+- [x] **Seminar:** Transformer implementation from scratch
+- [x] **Homework 1** is out
 
-- __week10__ Exam consultation
+### Week 03 — Transformers in NLP
+- [x] **Lecture:** Transfer learning, BERT, BART, RoBERTa, GPT, T5
+- [x] **Seminar:** Hugging Face Transformers
 
-(to be updated)
+### Week 04 — Transformers in Computer Vision
+- [x] **Lecture:** DETR, ViT, Swin Transformer
+- [x] **Seminar:** ViT deep dive
 
-# Course staff
-Course materials by
-- [Nikita Kachaev](https://tttonyalpha.github.io) - lectures, seminars
+### Week 05 — Transformer Training
+- [ ] **Lecture:** Pretraining objectives, prefix tuning, PEFT, LoRA, DPO
+- [ ] **Seminar:** Hugging Face TRL
+- [ ] **Homework 2** is out
+
+### Week 06 — Multimodal Transformers
+- [x] **Lecture:** MLLMs, image-text fusion, vision-language models
+- [x] **Seminar:** vLLM introduction
+
+### Week 07 — Efficient Transformers
+- [x] **Lecture:** KV cache, pruning, quantization, distillation, GPU parallelism
+- [ ] **Seminar:** To be announced
+
+### Week 08 — Memory in Transformers
+- [ ] **Lecture:** Memory classification, Transformer-XL, RMT, Memory Transformer, RAG, Titans
+- [ ] **Seminar:** Transformer-XL implementation
+- [ ] **Homework 3** is out
+
+### Week 09 — Transformers in Other Domains
+- [ ] **Lecture:** Audio, robotics, tabular ML, biology
+- [ ] **Seminar:** SmolVLA overview
+
+### Week 10 — Exam Consultation
+- [ ] **Consultation session**
+
+> Syllabus is subject to minor updates during the course.
+
+---
+
+<h2 id="repository-structure">🗂 Repository Structure</h2>
+
+The repository is organized by week:
+
+```bash
+.
+├── week01/
+├── week02/
+├── week03/
+├── ...
+└── week10/
