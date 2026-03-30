@@ -5,7 +5,7 @@
 ## Materials
 * [Lecture slides](lecture_02.pdf)
 * Seminar: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14gvqyCgls1_vM9R4hvBZXD9g4rVTSB-n?usp=sharing)
-* [HW1](https://colab.research.google.com/drive/1LU5rrn7U_1KwFuyx-hI5cMcQObjCURKF?usp=sharing)
+* Homework: [HW1](https://colab.research.google.com/drive/1LU5rrn7U_1KwFuyx-hI5cMcQObjCURKF?usp=sharing)
 
 
 ## More materials
