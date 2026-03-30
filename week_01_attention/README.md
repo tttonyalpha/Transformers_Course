@@ -1,4 +1,7 @@
 
+<img width="930" height="518" alt="image" src="https://github.com/user-attachments/assets/b88ac41d-dd6a-4158-84f7-61132b9520a8" />
+
+
 ## Materials
 * [Lecture slides](lecture_01.pdf)
 * Seminar: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cNxahpbrcqOTjYe150msk2niuu8MpA_y?usp=sharing)
