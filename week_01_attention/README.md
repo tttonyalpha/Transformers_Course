@@ -1,8 +1,7 @@
 
 ## Materials
 * [Lecture slides](lecture_01.pdf)
-* [Seminar](https://colab.research.google.com/drive/1cNxahpbrcqOTjYe150msk2niuu8MpA_y?usp=sharing)
-
+* Seminar: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cNxahpbrcqOTjYe150msk2niuu8MpA_y?usp=sharing)
 
 ## More materials
   - [NLP Course for you](https://lena-voita.github.io/nlp_course.html) 
