@@ -3,7 +3,7 @@
 
 
 ## Materials
-* [Lecture slides](lecture_06.pdf)
+* [Lecture slides](lecture_06-3.pdf)
 * Seminar: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ocpG07LA9FsUCzwCMYCT7KTAT2KZSGVL?usp=sharing)
 
 
