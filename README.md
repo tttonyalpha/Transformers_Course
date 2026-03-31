@@ -29,49 +29,50 @@ We start from the motivation behind attention, build transformer models from scr
 <h2 id="syllabus">📚 Syllabus</h2>
 
 ### Week 01 — Attention Introduction
-- [x] **Lecture:** Deep learning recap, embeddings, RNN bottleneck, from recurrence to attention
+- [x] **Lecture:** Course introduction, transformers timeline, embeddings, seq2seq models, RNN bottleneck, encoder-decoder attention
 - [x] **Seminar:** Torch basics recap, implementing Bahdanau attention
 
 ### Week 02 — Transformer Basics
-- [x] **Lecture:** QKV attention, feed-forward networks, residual connections, layer normalization, positional encoding, dropout, tokenization, sampling
+- [x] **Lecture:** Self-attention, masked attention, multi-head attention, encoder-decoder architecture, feed-forward blocks, residual connections, layer normalization, positional encoding
 - [x] **Seminar:** Transformer implementation from scratch
 - [x] **Homework 1** is out
 
 ### Week 03 — Transformers in NLP
-- [x] **Lecture:** Transfer learning, BERT, BART, RoBERTa, GPT, T5
+- [x] **Lecture:** Transfer learning, BERT, GPT, MLM vs LM objectives, downstream fine-tuning, RoBERTa, ELECTRA, BART, T5
 - [x] **Seminar:** Hugging Face Transformers
 
 ### Week 04 — Transformers in Computer Vision
-- [x] **Lecture:** DETR, ViT, Swin Transformer
+- [x] **Lecture:** Vision Transformer (ViT), patch embeddings, ViT pretraining, ViT vs CNNs, Swin Transformer, DETR, SegFormer
 - [x] **Seminar:** ViT deep dive
 
-### Week 05 — Transformer Training
-- [ ] **Lecture:** Pretraining objectives, prefix tuning, PEFT, LoRA, DPO
-- [ ] **Seminar:** Hugging Face TRL
-- [ ] **Homework 2** is out
+### Week 05 — Multimodal Transformers
+- [x] **Lecture:** Multimodal learning, multimodal embeddings, CLIP, SigLIP, image tokenization, fusion architectures for vision-language models
+- [x] **Seminar:** Vision-language models and multimodal embeddings
+- [x] **Homework 2** is out
 
-### Week 06 — Multimodal Transformers
-- [x] **Lecture:** MLLMs, image-text fusion, vision-language models
-- [x] **Seminar:** vLLM introduction
+### Week 06 — Transformer Training and Adaptation
+- [x] **Lecture:** Training basics, scaling laws, instruction tuning, RLHF, DPO, reinforcement learning, Chain-of-Thought, test-time scaling
+- [x] **Seminar:** Hugging Face TRL and practical fine-tuning workflows
 
-### Week 07 — Efficient Transformers
-- [x] **Lecture:** KV cache, pruning, quantization, distillation, GPU parallelism
-- [ ] **Seminar:** To be announced
+### Week 07 — Efficient Fine-Tuning and Compression
+- [ ] **Lecture:** PEFT, prompt tuning, prefix tuning, adapters, LoRA, pruning, mixed precision, quantization, QLoRA, distillation
+- [x] **Seminar:** PEFT, quantization, and model compression in practice
 
-### Week 08 — Memory in Transformers
-- [ ] **Lecture:** Memory classification, Transformer-XL, RMT, Memory Transformer, RAG, Titans
-- [ ] **Seminar:** Transformer-XL implementation
+### Week 08 — Distributed Training and Efficient Inference
+- [x] **Lecture:** Data parallelism, pipeline parallelism, tensor parallelism, ZeRO, efficient attention, KV-cache, inference optimization
+- [x] **Seminar:** Distributed training and efficient attention in practice
+
+### Week 09 — Memory in Transformers and Retrieval
+- [x] **Lecture:** Long-context transformers, memory compression, memory evaluation, Transformer-XL, RMT, retrieval-augmented generation (RAG)
+- [x] **Seminar:** Transformer-XL / memory-augmented transformer implementation
 - [ ] **Homework 3** is out
 
-### Week 09 — Transformers in Other Domains
-- [ ] **Lecture:** Audio, robotics, tabular ML, biology
-- [ ] **Seminar:** SmolVLA overview
 
-### Week 10 — Exam Consultation
-- [ ] **Consultation session**
+### Week 10 — Diffusion Transformers
+- [x] **Lecture:** Diffusion models, conditional generation, U-Net, Diffusion Transformers (DiT), text-to-image generation, ControlNet, Whisper
+- [x] **Seminar:** DiT and diffusion-model pipeline walkthrough
 
 > Syllabus is subject to minor updates during the course.
-
 ---
 
 <h2 id="repository-structure">🗂 Repository Structure</h2>
