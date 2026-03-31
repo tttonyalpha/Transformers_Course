@@ -90,3 +90,19 @@ The repository is organized by week:
 ├── week03/
 ├── ...
 └── week10/
+
+```
+
+<h2 id="additional-materials">📖 Additional Materials</h2>
+
+Each weekly folder contains additional study materials related to that week's topics. For students who would like to go deeper, a list of recommended external courses and recorded lecture series is also provided below.
+
+  - [Stanford CS25: Transformers United](https://web.stanford.edu/class/cs25/) — one of the most authoritative lecture series focused specifically on transformers, with talks from leading researchers and broad coverage of LLMs, multimodality, robotics, biology, and current frontier directions.
+  - [Stanford CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/) — a flagship NLP course that covers modern transformer-based NLP, including attention, encoder-decoder models, pretraining, post-training, efficient adaptation, and language model agents.
+  - [Stanford CS336: Language Modeling from Scratch](https://cs336.stanford.edu/) — an excellent advanced course on how modern language models are actually built, from data collection and preprocessing to transformer design, training, evaluation, and deployment.
+  - [CMU 11-777: Multimodal Machine Learning](https://cmu-mmml.github.io/) — a top academic course on multimodal learning, covering alignment, fusion, reasoning, generation, multimodal transformers, and real applications across language, vision, and audio.
+  - [UC Berkeley CS 198-126: Deep Learning for Visual Data](https://ml.berkeley.edu/decal) — a very relevant course for the vision and generative parts of your syllabus, with lectures on attention and transformers, vision transformers, CLIP, multimodality, vector quantization, and diffusion models.
+  - [MIT 6.5940 / EfficientML.ai: TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2024-fall-65940) — one of the strongest openly available courses on efficiency topics such as pruning, quantization, distillation, vision transformers, diffusion, long-context LLMs, and distributed training.
+  - [MIT 6.S183: A Practical Introduction to Diffusion Models](https://www.practical-diffusion.org/) — a focused and very useful course for the final part of your program, with lecture videos on diffusion fundamentals, DDPM/DDIM, conditioning, guidance, distillation, and applications.
+  - [Full Stack Deep Learning: LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/) — a practical industry-oriented lecture series on LLM foundations, prompt engineering, retrieval, LLMOps, product design, and building real-world LLM-powered systems.
+
