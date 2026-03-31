@@ -59,7 +59,7 @@ We start from the motivation behind attention, build transformer models from scr
 - [x] **Seminar:** Hugging Face TRL and practical fine-tuning workflows
 
 ### Week 07 — Efficient Fine-Tuning and Compression
-- [ ] **Lecture:** PEFT, prompt tuning, prefix tuning, adapters, LoRA, pruning, mixed precision, quantization, QLoRA, distillation
+- [x] **Lecture:** PEFT, prompt tuning, prefix tuning, adapters, LoRA, pruning, mixed precision, quantization, QLoRA, distillation
 - [x] **Seminar:** PEFT, quantization, and model compression in practice
 
 ### Week 08 — Distributed Training and Efficient Inference
@@ -69,7 +69,7 @@ We start from the motivation behind attention, build transformer models from scr
 ### Week 09 — Memory in Transformers and Retrieval
 - [x] **Lecture:** Long-context transformers, memory compression, memory evaluation, Transformer-XL, RMT, retrieval-augmented generation (RAG)
 - [x] **Seminar:** Transformer-XL / memory-augmented transformer implementation
-- [ ] **Homework 3** is out
+- [x] **Homework 3** is out
 
 
 ### Week 10 — Diffusion Transformers
