@@ -28,6 +28,10 @@ We start from the motivation behind attention, build transformer models from scr
 
 <h2 id="syllabus">📚 Syllabus</h2>
 
+![Untitled Diagram](https://github.com/user-attachments/assets/f4e13f31-db50-46ae-9929-a929fd5a6217)
+
+
+
 ### Week 01 — Attention Introduction
 - [x] **Lecture:** Course introduction, transformers timeline, embeddings, seq2seq models, RNN bottleneck, encoder-decoder attention
 - [x] **Seminar:** Torch basics recap, implementing Bahdanau attention
