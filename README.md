@@ -1,12 +1,11 @@
 # Transformers in Deep Learning Course
 
-Lecture and hands-on materials for each week are organized in the `./week*` folders.  
-All assignments can be completed either locally or in **Google Colab** — see the corresponding README files inside each weekly folder for setup and instructions.
 
-<img width="1536" height="1024" alt="example 10" src="https://github.com/user-attachments/assets/154892d7-eaaa-4838-8a21-b94e8d73198b" />
+[Transformer Deep Learning Models](https://www.hse.ru/en/edu/courses/1048887081) is a 3-ECTS course taughtat HSE University by the Faculty of Computer Science, Big Data and Information Retrieval School, during Module 3 of the 2025/2026 academic year. Lecture and hands-on materials for each week are organized in the `./week*` folders. All assignments can be completed either locally or in **Google Colab** — see the corresponding README files inside each weekly folder for setup and instructions.
 
-This course provides a practical introduction to **transformer architectures** and their applications across natural language processing, computer vision, multimodal learning, efficient inference, and embodied AI.  
-We start from the motivation behind attention, build transformer models from scratch, and gradually move toward modern training techniques, memory mechanisms, and domain-specific applications.
+![Untitled Diagram](https://github.com/user-attachments/assets/f4e13f31-db50-46ae-9929-a929fd5a6217)
+
+This course provides a practical introduction to **transformer architectures** and their applications across natural language processing, computer vision, multimodal learning, efficient inference, and embodied AI. We start from the motivation behind attention, build transformer models from scratch, and gradually move toward modern training techniques, memory mechanisms, and domain-specific applications.
 
 <div align="center">
 
@@ -27,10 +26,6 @@ We start from the motivation behind attention, build transformer models from scr
 ---
 
 <h2 id="syllabus">📚 Syllabus</h2>
-
-![Untitled Diagram](https://github.com/user-attachments/assets/f4e13f31-db50-46ae-9929-a929fd5a6217)
-
-
 
 ### Week 01 — Attention Introduction
 - [x] **Lecture:** Course introduction, transformers timeline, embeddings, seq2seq models, RNN bottleneck, encoder-decoder attention
@@ -105,4 +100,9 @@ Each weekly folder contains additional study materials related to that week's to
   - [MIT 6.5940 / EfficientML.ai: TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2024-fall-65940) — one of the strongest openly available courses on efficiency topics such as pruning, quantization, distillation, vision transformers, diffusion, long-context LLMs, and distributed training.
   - [MIT 6.S183: A Practical Introduction to Diffusion Models](https://www.practical-diffusion.org/) — a focused and very useful course for the final part of your program, with lecture videos on diffusion fundamentals, DDPM/DDIM, conditioning, guidance, distillation, and applications.
   - [Full Stack Deep Learning: LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/) — a practical industry-oriented lecture series on LLM foundations, prompt engineering, retrieval, LLMOps, product design, and building real-world LLM-powered systems.
+
+
+<h2 id="course-staff">👩‍🏫 Course Staff</h2>
+
+- [Nikita Kachaev](https://tttonyalpha.github.io) - lectures, seminars
 
