@@ -1,7 +1,7 @@
 # Transformers in Deep Learning Course
 
 
-[Transformer Deep Learning Models](https://www.hse.ru/en/edu/courses/1048887081) is a 3-ECTS course taught at HSE University by the Faculty of Computer Science, Big Data and Information Retrieval School, during Module 3 of the 2025/2026 academic year. 
+[Transformer Deep Learning Models](https://www.hse.ru/en/edu/courses/1048887081) is a 3-ECTS course taught at HSE University by the Faculty of Computer Science during Module 3 of the 2025/2026 academic year. 
 
 Lecture and hands-on materials for each week are organized in the `./week*` folders. All assignments can be completed either locally or in **Google Colab** — see the corresponding README files inside each weekly folder for setup and instructions.
 
